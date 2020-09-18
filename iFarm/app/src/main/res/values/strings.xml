@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">iFarmV2</string>
+    <string name="bem_vindo">BEM VINDO :()</string>
+    <string name="ifarm">iFarm</string>
+    <string name="next">Next</string>
+    <string name="vorta">Return</string>
 </resources>
